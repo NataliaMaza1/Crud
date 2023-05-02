@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Ejercico Base de Datos", "Ejercico Base de Datos\Ejercico Base de Datos.vbproj", "{C550762A-8133-4BA8-8D79-59698A79B19B}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "fgg", "fgg\fgg.vbproj", "{76D5F2F3-2952-44A8-A793-E6053C88F6DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C550762A-8133-4BA8-8D79-59698A79B19B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C550762A-8133-4BA8-8D79-59698A79B19B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C550762A-8133-4BA8-8D79-59698A79B19B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C550762A-8133-4BA8-8D79-59698A79B19B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76D5F2F3-2952-44A8-A793-E6053C88F6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76D5F2F3-2952-44A8-A793-E6053C88F6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76D5F2F3-2952-44A8-A793-E6053C88F6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76D5F2F3-2952-44A8-A793-E6053C88F6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7FD9458-F24C-483D-9868-3BD7AE3061BE}
+	EndGlobalSection
+EndGlobal
